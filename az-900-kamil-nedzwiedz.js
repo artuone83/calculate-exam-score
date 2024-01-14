@@ -1,3 +1,5 @@
+const score = require("./score.js");
+
 /*
 {
   correct: [],
@@ -6,18 +8,6 @@
 0 = no
 1 = yes
 */
-
-const score = (questionsObject) => {
-  const questionsCount = Object.keys(questionsObject).length;
-  const correctAnswers = Object.values(questionsObject).reduce((acc, answer) => {
-    const correct =
-      answer.given.filter((givenAnswer, index) => givenAnswer !== answer.correct[index]).length > 0 ? 0 : 1;
-
-    return acc + correct;
-  }, 0);
-
-  return ((correctAnswers / questionsCount) * 100).toFixed(2);
-};
 
 const answers = {
   1: {
