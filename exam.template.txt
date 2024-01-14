@@ -1,0 +1,202 @@
+const answers = {
+  1: {
+    correct: [],
+    given: [],
+  },
+  2: {
+    correct: [],
+    given: [],
+  },
+  3: {
+    correct: [],
+    given: [],
+  },
+  4: {
+    correct: [],
+    given: [],
+  },
+  5: {
+    correct: [],
+    given: [],
+  },
+  6: {
+    correct: [],
+    given: [],
+  },
+  7: {
+    correct: [],
+    given: [],
+  },
+  8: {
+    correct: [],
+    given: [],
+  },
+  9: {
+    correct: [],
+    given: [],
+  },
+  10: {
+    correct: [],
+    given: [],
+  },
+  11: {
+    correct: [],
+    given: [],
+  },
+  12: {
+    correct: [],
+    given: [],
+  },
+  13: {
+    correct: [],
+    given: [],
+  },
+  14: {
+    correct: [],
+    given: [],
+  },
+  15: {
+    correct: [],
+    given: [],
+  },
+  16: {
+    correct: [],
+    given: [],
+  },
+  17: {
+    correct: [],
+    given: [],
+  },
+  18: {
+    correct: [],
+    given: [],
+  },
+  19: {
+    correct: [],
+    given: [],
+  },
+  20: {
+    correct: [],
+    given: [],
+  },
+  21: {
+    correct: [],
+    given: [],
+  },
+  22: {
+    correct: [],
+    given: [],
+  },
+  23: {
+    correct: [],
+    given: [],
+  },
+  24: {
+    correct: [],
+    given: [],
+  },
+  25: {
+    correct: [],
+    given: [],
+  },
+  26: {
+    correct: [],
+    given: [],
+  },
+  27: {
+    correct: [],
+    given: [],
+  },
+  28: {
+    correct: [],
+    given: [],
+  },
+  29: {
+    correct: [],
+    given: [],
+  },
+  30: {
+    correct: [],
+    given: [],
+  },
+  31: {
+    correct: [],
+    given: [],
+  },
+  32: {
+    correct: [],
+    given: [],
+  },
+  33: {
+    correct: [],
+    given: [],
+  },
+  34: {
+    correct: [],
+    given: [],
+  },
+  35: {
+    correct: [],
+    given: [],
+  },
+  36: {
+    correct: [],
+    given: [],
+  },
+  37: {
+    correct: [],
+    given: [],
+  },
+  38: {
+    correct: [],
+    given: [],
+  },
+  39: {
+    correct: [],
+    given: [],
+  },
+  40: {
+    correct: [],
+    given: [],
+  },
+  41: {
+    correct: [],
+    given: [],
+  },
+  42: {
+    correct: [],
+    given: [],
+  },
+  43: {
+    correct: [],
+    given: [],
+  },
+  44: {
+    correct: [],
+    given: [],
+  },
+  45: {
+    correct: [],
+    given: [],
+  },
+  46: {
+    correct: [],
+    given: [],
+  },
+  47: {
+    correct: [],
+    given: [],
+  },
+  48: {
+    correct: [],
+    given: [],
+  },
+  49: {
+    correct: [],
+    given: [],
+  },
+  50: {
+    correct: [],
+    given: [],
+  },
+};
