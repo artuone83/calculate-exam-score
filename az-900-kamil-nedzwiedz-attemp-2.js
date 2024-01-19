@@ -531,80 +531,248 @@ const answers = {
     given: [0, 0, 0],
   },
   132: {
-    correct: [],
+    correct: ["azure information protection"],
     given: ["azure information protection"],
   },
   133: {
-    correct: [],
-    given: [],
+    correct: ["continuous to work normally"],
+    given: ["continuous to work normally"],
   },
   134: {
-    correct: [],
-    given: [],
+    correct: [0, 0, 0],
+    given: [0, 0, 0],
   },
   135: {
-    correct: [],
-    given: [],
+    correct: ["b"],
+    given: ["b"],
   },
   136: {
-    correct: [],
-    given: [],
+    correct: ["c"],
+    given: ["c"],
   },
   137: {
-    correct: [],
-    given: [],
+    correct: [1, 1, 0],
+    given: [1, 1, 0],
   },
   138: {
-    correct: [],
-    given: [],
+    correct: [1],
+    given: [1],
   },
   139: {
-    correct: [],
-    given: [],
+    correct: [1, 0, 1],
+    given: [1, 0, 1],
   },
   140: {
-    correct: [],
-    given: [],
+    correct: [2],
+    given: [2],
   },
   141: {
-    correct: [],
-    given: [],
+    correct: [4],
+    given: [4],
   },
   142: {
-    correct: [],
-    given: [],
+    correct: [1],
+    given: [1],
   },
   143: {
-    correct: [],
-    given: [],
+    correct: [4, 3],
+    given: [4, 3],
   },
   144: {
-    correct: [],
-    given: [],
+    correct: ["b"],
+    given: ["b"],
   },
   145: {
-    correct: [],
-    given: [],
+    correct: [4],
+    given: [2],
   },
   146: {
-    correct: [],
-    given: [],
+    correct: [1, 0, 1],
+    given: [1, 0, 1],
   },
   147: {
-    correct: [],
-    given: [],
+    correct: [3],
+    given: [3],
   },
   148: {
-    correct: [],
-    given: [],
+    correct: [0, 1, 0],
+    given: [0, 1, 0],
   },
   149: {
+    correct: [0, 1, 0],
+    given: [0, 1, 0],
+  },
+  150: {
+    correct: ["a", "d"],
+    given: ["a", "d"],
+  },
+  151: {
+    correct: [1],
+    given: [1],
+  },
+  152: {
+    correct: [0, 1, 1],
+    given: [1, 1, 0],
+  },
+  153: {
+    correct: [1, 0, 1],
+    given: [1, 0, 1],
+  },
+  154: {
+    correct: ["b"],
+    given: ["a"],
+  },
+  155: {
+    correct: ["a"],
+    given: ["a"],
+  },
+  156: {
+    correct: ["b"],
+    given: ["b"],
+  },
+  157: {
+    correct: [3, 3],
+    given: [3, 3, 1],
+  },
+  158: {
+    correct: [0, 0, 1],
+    given: [0, 0, 1],
+  },
+  159: {
+    correct: ["c"],
+    given: ["c"],
+  },
+  160: {
+    correct: ["c"],
+    given: ["c"],
+  },
+  161: {
+    correct: ["b"],
+    given: ["b"],
+  },
+  162: {
+    correct: ["b"],
+    given: ["b"],
+  },
+  163: {
+    correct: ["a"],
+    given: ["a"],
+  },
+  164: {
+    correct: [3],
+    given: [3],
+  },
+  165: {
+    correct: ["a"],
+    given: ["a"],
+  },
+  166: {
+    correct: [1],
+    given: [1],
+  },
+  167: {
+    correct: ["b"],
+    given: ["b"],
+  },
+  168: {
+    correct: ["a"],
+    given: ["a"],
+  },
+  169: {
+    correct: ["a"],
+    given: ["a"],
+  },
+  170: {
+    correct: ["a"],
+    given: ["a"],
+  },
+  171: {
+    correct: [1, 0, 0],
+    given: [1, 0, 0],
+  },
+  172: {
+    correct: ["c"],
+    given: ["d"],
+  },
+  173: {
+    correct: [2],
+    given: [1],
+  },
+  174: {
+    correct: ["a"],
+    given: ["a"],
+  },
+  175: {
+    correct: ["b"],
+    given: ["b"],
+  },
+  176: {
+    correct: [1, 0, 0],
+    given: [1, 0, 1],
+  },
+  177: {
+    correct: [0, 1, 0],
+    given: [0, 1, 0],
+  },
+  178: {
+    correct: [1, 0, 1],
+    given: [1, 0, 1],
+  },
+  179: {
+    correct: [1, 1, 0],
+    given: [0, 1, 0],
+  },
+  180: {
+    correct: ["b"],
+    given: ["b"],
+  },
+  181: {
     correct: [],
     given: [],
   },
-  150: {
-    correct: [],
-    given: [],
+  182: {
+    correct: ["c"],
+    given: ["c"],
+  },
+  183: {
+    correct: [1, 0, 0],
+    given: [1, 0, 0],
+  },
+  184: {
+    correct: [1, 0, 1],
+    given: [1, 0, 1],
+  },
+  185: {
+    correct: [0, 0, 0],
+    given: [0, 0, 0],
+  },
+  186: {
+    correct: [2],
+    given: [2],
+  },
+  187: {
+    correct: [0, 0, 1],
+    given: [0, 0, 1],
+  },
+  188: {
+    correct: ["d"],
+    given: ["b"],
+  },
+  189: {
+    correct: ["b"],
+    given: ["c"],
+  },
+  190: {
+    correct: [0, 1, 0],
+    given: [0, 1, 0],
+  },
+  191: {
+    correct: [1, 0, 0],
+    given: [1, 0, 0],
+  },
+  192: {
+    correct: ["a"],
+    given: ["a"],
   },
 };
 
